@@ -1,0 +1,68 @@
+Contextualização
+1 - Com base na leitura e análise de artigos, percebemos que muitos dos pesquisadores 
+visando o estudo sobre Gamificação: 
+ 
+Apesar de sua importância, muitos estudos sobre gamificação não utilizam métodos
+ adequados de planejamento de gamificação que levam em consideração tanto as teorias 
+de design de jogos quanto o contexto onde os elementos de jogos serão utilizados.
+
+2 - Quem deseja se aprofundar, acaba enfrentando modelos abstratos e tipos de linguagens
+e implementações distintas do que se vê no dia a dia.
+
+3- Estudos realizados por thiebes, lins e basten em 2014:
+Neste estudo, os autores focam em analisar quatro riscos que a
+gamificação de sistemas de informação deve considerar quando utilizar os elementos de
+jogos, que são:
+
+Qualidade de tarefa: influencia na qualidade das ações que devem ser desenpenhadas, de forma que 
+a criaçao do jogo atrapalha ou desvia a atenção do aprendiz/jogador;
+
+Privacidade: Analisar com mais cautela tipos de arquivos que serão submetidos, e analisar se existe
+alguma probabilidade de existir algum executavel junto a esse arquivo.
+
+cheating the system: como todos já devem conhecer é o famoso hacker pra jogos mesmo, acontece quando as 
+regras do sistema não são claras, com isso permite que os jogadores ignore elas, e utilizam esse tipo de brechas
+
+----------------------------------------------------------------------------------
+OBJETIVOS
+
+1- Com a gamificação implementada, o modelo tradicional acaba sendo ultrapassado, e com isso podemos obter análises
+da capacidade dos alunos de aprendizagem com a gamificação, através do próprio jogo com software de IA
+já implementado.
+
+2- Além disso, a gente visa desenvolver o jogo com um foco mais centrado no conteúdo, para que não haja o problema
+citado acima ( Qualidade da tarefa) que atrapalha ou desvia a atenção do jogador/aprendiz.
+
+3 - e também, como ja mencionado acima, a verifacação de arquivos e dados submetidos no sistema.
+
+----------------------------------------------------------------------------------------------
+
+
+JUSTIFICATIVA
+
+1 - com base na credibilidade afetada, causada pela utilização inadequada de planejamento, a gamificação sofre
+o impacto, ja que a conexão pratica e teorica não existe.
+
+2 - Com esse recurso da gamificação em si, possuimos uma área extensa e que pode ser implementado em outras 
+áreas, como por exemplo, as corporativas e até mesmo empresariais, com um conteúdo sendo passado de forma
+abrangente e personalizada por cada colaborador. 
+
+----------------------------------------------------------------------------------------------
+
+Revisão Bibliógrafica
+
+Como o tema passou por várias mudanças, a bibliografia que foi postada tinha a ver com segurança de dados
+que inclusive é o que citamos acima em " Privacidade ", novamente reforçando o quão imprescindivel é 
+a segurança destes.
+
+----------------------------------------------------------------------------------------------
+
+METODOLOGIA
+
+1- É de extrema importância que citemos aqui a pesquisa feita pela Game brasil em 2022, com o covid 19 em alta
+os jogos digitais foi um impacto postivo para a industria de games e computacional. E podemos mostrar também
+como nossos objetivos terião bons resultados através dessa pesquisa e de várias outras que mencionamos acima.
+
+2 - Junto a gamificação já implementada, utilizaremos a técnica de " protagonismo discente ", que seria uma
+construção do conhecimento no qual o aprendiz se torna o agente. já que a gamificação possui como foco principal
+na qualificação e desenvolvimento.

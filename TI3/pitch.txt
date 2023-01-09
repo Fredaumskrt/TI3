@@ -1,0 +1,43 @@
+SLIDE 1 
+Vamos lá, nosso tema, Gamificação aplicada com a utilização do pensamento COmputacional;
+composto por Frederico malaquias, e eu gabriel parfan
+SLIDE2
+Na nossa proposta visamos a criação da gamificação, e também a aplicação deste,
+utilizando alguns métodos pesquisados nos artigos e pesquisas sobre o tema, os metodos propostos são basicamente
+em cima da problemática que também foi encontrado em muitos artigos e pesquisas.
+SLIDE 3 E 4
+Como falamos do objetivo geral, citemos agora os 3 métodos que poderá ser utilizados ( FALA O NOME DOS METODOS ),
+Qualidade da tarefa,foi um problema encontrado no qual o jogo atrapalha o principal objetivo, visando isso pensamos no recurso que poderá
+melhorar a qualidade das ações que devem ser desenpenhadas, o conteúdo passado possua o maior foco, assim, possibilitando que os aprendizes
+obtenham um modelo de conhecimento diferente.
+SLIDE 5
+A privacidade algo que está presente em tudo praticamente relacionado a computação ne. o monitoramento e a vigil
+ancia dos dados podem gerar falhas inesperadas, e com isso ocasionar brechas de segurança, assim violando direitos
+de priavacidade basica do usuario. Com isso uma maneira simples de observar os dados na hora do desenvolvimento é algo imprescindivel
+até mesmo um arquivo com procendencia duvidosa submetido pode conter um executavel que acabe se infiltrando
+nos dados.
+SLIDE 6
+Esse recurso foi pensado com base na pesquisa Game brasil em 2022, onde obteve que 74,5% dos brasileirros utilizam jogos eletronicos
+em diferentes dispositivos. Com isso o protagonismo discente visaria a construção do 
+conhecimento no qual o aprendiz se torna o agente.
+
+SLIDE 7
+
+Podemos analisar capacidade da aprendizagem com o modelo tradicional e com a implementação da gamificação utilizando uma IA, com isso obtendo
+feedbacks para a melhora do nosso produto.
+
+Além disso como as plataforma de gamificação para educação apresentam o conteúdo de forma interessante,
+e personalizada de de acordo com as demandas de cada colaborador.E
+ainda, especialistas afirmam que quando os funcionários se divertem no processo de
+aprendizagem e se sentem desafiados a encontrar soluções práticas para diversas
+situações, podem adquirir maior conhecimento.
+Slide 8
+De modo geral, os jogos são projetados para aumentar a competitividade. Já a gamificação, tem o
+foco principal na qualificação e desenvolvimento.
+O treinamento de equipes e a capacitação de profissionais podem exigir um investimento
+considerável. No entanto, a plataforma de gamificação pode atingir esse objetivo com menos
+recursos do que as ferramentas tradicionais de ensino.
+
+SLIDE 9
+
+faz a finalização
